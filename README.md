@@ -1,4 +1,4 @@
 # otraprueba
  proyecto
  
- para correrlo utilisa el main.py
+ para correrlo utiliza el main.py
